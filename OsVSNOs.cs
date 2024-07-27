@@ -9,7 +9,7 @@ namespace OsVSNOs;
 
 public class OsVSNOs : BasePlugin
 {
-    public override string ModuleName => "OsVSNOs Handler";
+    public override string ModuleName => "OsVSNOs";
     public override string ModuleVersion => "1.0.0";
     public override string ModuleAuthor => "ShookEagle";
     private CsTeam OTeam = CsTeam.None;

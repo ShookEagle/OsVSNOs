@@ -1,6 +1,5 @@
 ﻿using CounterStrikeSharp.API.Core;
 using CounterStrikeSharp.API.Modules.Admin;
-using OsVSNOs.enums;
 
 namespace OsVSNOs.extensions;
 
